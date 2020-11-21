@@ -1,0 +1,6553 @@
+begin%savefile%
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=1, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=1, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=1, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=1, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=1, 
+Rate=3.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=1, 
+Rate=2.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=1, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=1, 
+Rate=4.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=1, 
+Rate=5.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=1, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=1, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=1, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=1, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=1, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=1, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=1, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=1, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=1, 
+Rate=4.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=1, 
+Rate=5.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=1, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=1, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=1, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=1, 
+Rate=3.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=1, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=1, 
+Rate=5.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=1, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=1, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=1, 
+Rate=3.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=1, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=1, 
+Rate=2.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=1, 
+Rate=3.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=1, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=1, 
+Rate=3.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=1, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=1, 
+Rate=2.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=1, 
+Rate=4.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=1, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=1, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=1, 
+Rate=4.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=1, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=1, 
+Rate=2.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=1, 
+Rate=3.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=1, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=1, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=1, 
+Rate=2.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=1, 
+Rate=2.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=1, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=1, 
+Rate=3.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=1, 
+Rate=5.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=1, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=1, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=2, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=2, 
+Rate=5.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=2, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=2, 
+Rate=3.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=2, 
+Rate=2.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=2, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=2, 
+Rate=3.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=2, 
+Rate=5.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=2, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=2, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=2, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=2, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=2, 
+Rate=3.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=2, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=2, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=2, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=2, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=2, 
+Rate=5.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=2, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=2, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=2, 
+Rate=2.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=2, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=2, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=2, 
+Rate=5.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=2, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=2, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=2, 
+Rate=2.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=2, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=2, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=2, 
+Rate=3.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=2, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=2, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=2, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=2, 
+Rate=2.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=2, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=2, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=2, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=2, 
+Rate=4.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=2, 
+Rate=3.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=2, 
+Rate=2.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=2, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=2, 
+Rate=3.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=2, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=2, 
+Rate=2.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=2, 
+Rate=3.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=2, 
+Rate=2.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=2, 
+Rate=3.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=2, 
+Rate=4.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=2, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=2, 
+Rate=2.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=2, 
+Rate=5.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=3, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=3, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=3, 
+Rate=5.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=3, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=3, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=3, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=3, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=3, 
+Rate=5.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=3, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=3, 
+Rate=4.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=3, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=3, 
+Rate=2.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=3, 
+Rate=2.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=3, 
+Rate=4.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=3, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=3, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=3, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=3, 
+Rate=5.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=3, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=3, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=3, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=3, 
+Rate=2.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=3, 
+Rate=4.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=3, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=3, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=3, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=3, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=3, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=3, 
+Rate=6.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=3, 
+Rate=2.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=3, 
+Rate=3.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=3, 
+Rate=5.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=3, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=3, 
+Rate=4.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=3, 
+Rate=2.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=3, 
+Rate=5.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=3, 
+Rate=3.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=3, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=3, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=3, 
+Rate=4.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=3, 
+Rate=2.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=3, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=3, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=3, 
+Rate=4.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=3, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=3, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=3, 
+Rate=3.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=3, 
+Rate=5.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=3, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=3, 
+Rate=3.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=3, 
+Rate=3.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=4, 
+Rate=12.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=4, 
+Rate=12.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=4, 
+Rate=12.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=4, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=4, 
+Rate=15.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=4, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=4, 
+Rate=7.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=4, 
+Rate=14.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=4, 
+Rate=11.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=4, 
+Rate=12.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=4, 
+Rate=11.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=4, 
+Rate=22.299999.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=4, 
+Rate=11.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=4, 
+Rate=16.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=4, 
+Rate=16.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=4, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=4, 
+Rate=11.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=4, 
+Rate=15.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=4, 
+Rate=14.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=4, 
+Rate=10.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=4, 
+Rate=9.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=4, 
+Rate=15.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=4, 
+Rate=22.700001.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=4, 
+Rate=8.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=4, 
+Rate=15.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=4, 
+Rate=9.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=4, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=4, 
+Rate=8.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=4, 
+Rate=28.299999.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=4, 
+Rate=16.299999.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=4, 
+Rate=15.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=4, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=4, 
+Rate=14.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=4, 
+Rate=12.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=4, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=4, 
+Rate=16.799999.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=4, 
+Rate=13.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=4, 
+Rate=14.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=4, 
+Rate=15.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=4, 
+Rate=17.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=4, 
+Rate=12.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=4, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=4, 
+Rate=14.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=4, 
+Rate=12.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=4, 
+Rate=9.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=4, 
+Rate=15.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=4, 
+Rate=10.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=4, 
+Rate=15.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=4, 
+Rate=15.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=4, 
+Rate=14.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=4, 
+Rate=9.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=5, 
+Rate=9.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=5, 
+Rate=12.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=5, 
+Rate=9.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=5, 
+Rate=9.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=5, 
+Rate=16.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=5, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=5, 
+Rate=9.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=5, 
+Rate=15.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=5, 
+Rate=8.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=5, 
+Rate=13.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=5, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=5, 
+Rate=23.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=5, 
+Rate=9.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=5, 
+Rate=15.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=5, 
+Rate=12.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=5, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=5, 
+Rate=10.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=5, 
+Rate=10.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=5, 
+Rate=14.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=5, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=5, 
+Rate=10.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=5, 
+Rate=16.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=5, 
+Rate=21.299999.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=5, 
+Rate=9.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=5, 
+Rate=10.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=5, 
+Rate=10.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=5, 
+Rate=9.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=5, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=5, 
+Rate=25.299999.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=5, 
+Rate=15.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=5, 
+Rate=15.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=5, 
+Rate=9.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=5, 
+Rate=14.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=5, 
+Rate=12.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=5, 
+Rate=9.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=5, 
+Rate=13.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=5, 
+Rate=12.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=5, 
+Rate=14.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=5, 
+Rate=13.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=5, 
+Rate=16.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=5, 
+Rate=12.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=5, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=5, 
+Rate=11.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=5, 
+Rate=13.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=5, 
+Rate=8.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=5, 
+Rate=12.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=5, 
+Rate=9.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=5, 
+Rate=15.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=5, 
+Rate=12.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=5, 
+Rate=12.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=5, 
+Rate=8.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=6, 
+Rate=7.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=6, 
+Rate=12.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=6, 
+Rate=10.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=6, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=6, 
+Rate=14.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=6, 
+Rate=10.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=6, 
+Rate=9.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=6, 
+Rate=12.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=6, 
+Rate=8.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=6, 
+Rate=10.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=6, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=6, 
+Rate=13.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=6, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=6, 
+Rate=14.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=6, 
+Rate=11.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=6, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=6, 
+Rate=7.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=6, 
+Rate=4.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=6, 
+Rate=9.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=6, 
+Rate=6.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=6, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=6, 
+Rate=17.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=6, 
+Rate=14.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=6, 
+Rate=8.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=6, 
+Rate=8.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=6, 
+Rate=7.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=6, 
+Rate=7.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=6, 
+Rate=6.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=6, 
+Rate=15.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=6, 
+Rate=11.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=6, 
+Rate=16.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=6, 
+Rate=8.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=6, 
+Rate=15.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=6, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=6, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=6, 
+Rate=10.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=6, 
+Rate=6.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=6, 
+Rate=11.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=6, 
+Rate=13.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=6, 
+Rate=12.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=6, 
+Rate=8.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=6, 
+Rate=7.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=6, 
+Rate=9.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=6, 
+Rate=8.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=6, 
+Rate=5.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=6, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=6, 
+Rate=8.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=6, 
+Rate=9.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=6, 
+Rate=10.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=6, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=6, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=7, 
+Rate=7.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=7, 
+Rate=11.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=7, 
+Rate=10.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=7, 
+Rate=7.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=7, 
+Rate=13.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=7, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=7, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=7, 
+Rate=10.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=7, 
+Rate=8.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=7, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=7, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=7, 
+Rate=13.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=7, 
+Rate=5.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=7, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=7, 
+Rate=7.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=7, 
+Rate=6.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=7, 
+Rate=7.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=7, 
+Rate=5.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=7, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=7, 
+Rate=9.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=7, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=7, 
+Rate=16.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=7, 
+Rate=8.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=7, 
+Rate=7.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=7, 
+Rate=10.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=7, 
+Rate=6.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=7, 
+Rate=6.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=7, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=7, 
+Rate=14.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=7, 
+Rate=8.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=7, 
+Rate=13.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=7, 
+Rate=12.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=7, 
+Rate=15.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=7, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=7, 
+Rate=6.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=7, 
+Rate=8.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=7, 
+Rate=7.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=7, 
+Rate=10.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=7, 
+Rate=13.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=7, 
+Rate=11.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=7, 
+Rate=8.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=7, 
+Rate=6.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=7, 
+Rate=9.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=7, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=7, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=7, 
+Rate=8.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=7, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=7, 
+Rate=10.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=7, 
+Rate=9.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=7, 
+Rate=7.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=7, 
+Rate=7.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=8, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=8, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=8, 
+Rate=5.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=8, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=8, 
+Rate=11.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=8, 
+Rate=6.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=8, 
+Rate=8.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=8, 
+Rate=8.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=8, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=8, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=8, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=8, 
+Rate=12.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=8, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=8, 
+Rate=11.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=8, 
+Rate=6.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=8, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=8, 
+Rate=6.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=8, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=8, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=8, 
+Rate=6.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=8, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=8, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=8, 
+Rate=8.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=8, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=8, 
+Rate=7.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=8, 
+Rate=7.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=8, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=8, 
+Rate=4.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=8, 
+Rate=13.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=8, 
+Rate=6.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=8, 
+Rate=10.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=8, 
+Rate=11.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=8, 
+Rate=12.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=8, 
+Rate=6.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=8, 
+Rate=5.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=8, 
+Rate=8.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=8, 
+Rate=5.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=8, 
+Rate=7.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=8, 
+Rate=10.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=8, 
+Rate=12.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=8, 
+Rate=6.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=8, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=8, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=8, 
+Rate=6.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=8, 
+Rate=4.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=8, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=8, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=8, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=8, 
+Rate=8.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=8, 
+Rate=6.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=8, 
+Rate=6.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=9, 
+Rate=6.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=9, 
+Rate=7.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=9, 
+Rate=6.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=9, 
+Rate=7.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=9, 
+Rate=11.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=9, 
+Rate=6.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=9, 
+Rate=7.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=9, 
+Rate=8.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=9, 
+Rate=8.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=9, 
+Rate=7.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=9, 
+Rate=6.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=9, 
+Rate=15.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=9, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=9, 
+Rate=10.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=9, 
+Rate=6.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=9, 
+Rate=4.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=9, 
+Rate=5.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=9, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=9, 
+Rate=8.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=9, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=9, 
+Rate=7.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=9, 
+Rate=9.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=9, 
+Rate=8.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=9, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=9, 
+Rate=7.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=9, 
+Rate=4.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=9, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=9, 
+Rate=3.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=9, 
+Rate=12.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=9, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=9, 
+Rate=6.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=9, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=9, 
+Rate=9.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=9, 
+Rate=7.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=9, 
+Rate=4.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=9, 
+Rate=8.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=9, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=9, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=9, 
+Rate=8.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=9, 
+Rate=10.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=9, 
+Rate=5.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=9, 
+Rate=4.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=9, 
+Rate=6.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=9, 
+Rate=8.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=9, 
+Rate=5.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=9, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=9, 
+Rate=6.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=9, 
+Rate=7.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=9, 
+Rate=8.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=9, 
+Rate=5.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=9, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alabama", 
+Month=10, 
+Rate=5.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Alaska", 
+Month=10, 
+Rate=5.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arizona", 
+Month=10, 
+Rate=8.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Arkansas", 
+Month=10, 
+Rate=6.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="California", 
+Month=10, 
+Rate=9.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Colorado", 
+Month=10, 
+Rate=6.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Connecticut", 
+Month=10, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Delaware", 
+Month=10, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="D.C.", 
+Month=10, 
+Rate=8.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Florida", 
+Month=10, 
+Rate=6.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Georgia", 
+Month=10, 
+Rate=4.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Hawaii", 
+Month=10, 
+Rate=14.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Idaho", 
+Month=10, 
+Rate=5.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Illinois", 
+Month=10, 
+Rate=6.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Indiana", 
+Month=10, 
+Rate=5.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Iowa", 
+Month=10, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kansas", 
+Month=10, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Kentucky", 
+Month=10, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Louisiana", 
+Month=10, 
+Rate=9.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maine", 
+Month=10, 
+Rate=5.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Maryland", 
+Month=10, 
+Rate=7.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Massachusetts", 
+Month=10, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Michigan", 
+Month=10, 
+Rate=5.500000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Minnesota", 
+Month=10, 
+Rate=4.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Mississippi", 
+Month=10, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Missouri", 
+Month=10, 
+Rate=4.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Montana", 
+Month=10, 
+Rate=4.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nebraska", 
+Month=10, 
+Rate=3.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Nevada", 
+Month=10, 
+Rate=12.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Hampshire", 
+Month=10, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Jersey", 
+Month=10, 
+Rate=8.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New Mexico", 
+Month=10, 
+Rate=8.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="New York", 
+Month=10, 
+Rate=9.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Carolina", 
+Month=10, 
+Rate=6.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="North Dakota", 
+Month=10, 
+Rate=4.800000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Ohio", 
+Month=10, 
+Rate=5.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oklahoma", 
+Month=10, 
+Rate=6.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Oregon", 
+Month=10, 
+Rate=6.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Pennsylvania", 
+Month=10, 
+Rate=7.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Rhode Island", 
+Month=10, 
+Rate=7.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Carolina", 
+Month=10, 
+Rate=4.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="South Dakota", 
+Month=10, 
+Rate=3.600000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Tennessee", 
+Month=10, 
+Rate=7.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Texas", 
+Month=10, 
+Rate=6.900000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Utah", 
+Month=10, 
+Rate=4.100000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Vermont", 
+Month=10, 
+Rate=3.200000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Virginia", 
+Month=10, 
+Rate=5.300000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Washington", 
+Month=10, 
+Rate=6.
+
+
+Unemployment(State, Month, Rate) :- 
+State="West Virginia", 
+Month=10, 
+Rate=6.400000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wisconsin", 
+Month=10, 
+Rate=5.700000.
+
+
+Unemployment(State, Month, Rate) :- 
+State="Wyoming", 
+Month=10, 
+Rate=5.500000.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Hawaii", 
+Rank=1, 
+Healthcare_Access=3, 
+Healthcare_Quality=1, 
+Public_Health=4.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Massachusetts", 
+Rank=2, 
+Healthcare_Access=2, 
+Healthcare_Quality=13, 
+Public_Health=5.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Connecticut", 
+Rank=3, 
+Healthcare_Access=1, 
+Healthcare_Quality=14, 
+Public_Health=6.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Washington", 
+Rank=4, 
+Healthcare_Access=12, 
+Healthcare_Quality=3, 
+Public_Health=9.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Rhode Island", 
+Rank=5, 
+Healthcare_Access=6, 
+Healthcare_Quality=9, 
+Public_Health=19.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="New Jersey", 
+Rank=6, 
+Healthcare_Access=13, 
+Healthcare_Quality=19, 
+Public_Health=3.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="California", 
+Rank=7, 
+Healthcare_Access=23, 
+Healthcare_Quality=10, 
+Public_Health=1.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Maryland", 
+Rank=8, 
+Healthcare_Access=10, 
+Healthcare_Quality=12, 
+Public_Health=12.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Utah", 
+Rank=9, 
+Healthcare_Access=22, 
+Healthcare_Quality=4, 
+Public_Health=10.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Minnesota", 
+Rank=10, 
+Healthcare_Access=9, 
+Healthcare_Quality=22, 
+Public_Health=7.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Vermont", 
+Rank=11, 
+Healthcare_Access=7, 
+Healthcare_Quality=20, 
+Public_Health=11.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Colorado", 
+Rank=12, 
+Healthcare_Access=29, 
+Healthcare_Quality=7, 
+Public_Health=8.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="New York", 
+Rank=13, 
+Healthcare_Access=11, 
+Healthcare_Quality=30, 
+Public_Health=2.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Wisconsin", 
+Rank=14, 
+Healthcare_Access=8, 
+Healthcare_Quality=15, 
+Public_Health=24.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Delaware", 
+Rank=15, 
+Healthcare_Access=18, 
+Healthcare_Quality=6, 
+Public_Health=28.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="New Hampshire", 
+Rank=16, 
+Healthcare_Access=5, 
+Healthcare_Quality=29, 
+Public_Health=14.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Oregon", 
+Rank=17, 
+Healthcare_Access=34, 
+Healthcare_Quality=8, 
+Public_Health=22.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Virginia", 
+Rank=18, 
+Healthcare_Access=16, 
+Healthcare_Quality=21, 
+Public_Health=16.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Maine", 
+Rank=19, 
+Healthcare_Access=31, 
+Healthcare_Quality=5, 
+Public_Health=30.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Iowa", 
+Rank=20, 
+Healthcare_Access=4, 
+Healthcare_Quality=36, 
+Public_Health=26.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Pennsylvania", 
+Rank=21, 
+Healthcare_Access=14, 
+Healthcare_Quality=18, 
+Public_Health=32.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Illinois", 
+Rank=22, 
+Healthcare_Access=19, 
+Healthcare_Quality=26, 
+Public_Health=13.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Arizona", 
+Rank=23, 
+Healthcare_Access=42, 
+Healthcare_Quality=11, 
+Public_Health=18.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Michigan", 
+Rank=24, 
+Healthcare_Access=15, 
+Healthcare_Quality=16, 
+Public_Health=37.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Alaska", 
+Rank=25, 
+Healthcare_Access=49, 
+Healthcare_Quality=2, 
+Public_Health=38.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Idaho", 
+Rank=26, 
+Healthcare_Access=40, 
+Healthcare_Quality=17, 
+Public_Health=23.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Nebraska", 
+Rank=27, 
+Healthcare_Access=21, 
+Healthcare_Quality=33, 
+Public_Health=17.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Montana", 
+Rank=28, 
+Healthcare_Access=25, 
+Healthcare_Quality=25, 
+Public_Health=29.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Florida", 
+Rank=29, 
+Healthcare_Access=46, 
+Healthcare_Quality=24, 
+Public_Health=15.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="North Carolina", 
+Rank=30, 
+Healthcare_Access=30, 
+Healthcare_Quality=28, 
+Public_Health=34.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Nevada", 
+Rank=31, 
+Healthcare_Access=44, 
+Healthcare_Quality=23, 
+Public_Health=31.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="South Dakota", 
+Rank=32, 
+Healthcare_Access=26, 
+Healthcare_Quality=43, 
+Public_Health=21.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Kansas", 
+Rank=33, 
+Healthcare_Access=24, 
+Healthcare_Quality=42, 
+Public_Health=27.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="New Mexico", 
+Rank=34, 
+Healthcare_Access=33, 
+Healthcare_Quality=35, 
+Public_Health=33.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Ohio", 
+Rank=35, 
+Healthcare_Access=20, 
+Healthcare_Quality=32, 
+Public_Health=41.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="South Carolina", 
+Rank=36, 
+Healthcare_Access=36, 
+Healthcare_Quality=27, 
+Public_Health=40.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Texas", 
+Rank=37, 
+Healthcare_Access=47, 
+Healthcare_Quality=41, 
+Public_Health=20.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="North Dakota", 
+Rank=38, 
+Healthcare_Access=39, 
+Healthcare_Quality=44, 
+Public_Health=25.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Georgia", 
+Rank=39, 
+Healthcare_Access=41, 
+Healthcare_Quality=37, 
+Public_Health=36.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Indiana", 
+Rank=40, 
+Healthcare_Access=32, 
+Healthcare_Quality=34, 
+Public_Health=42.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Missouri", 
+Rank=41, 
+Healthcare_Access=35, 
+Healthcare_Quality=38, 
+Public_Health=39.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Wyoming", 
+Rank=42, 
+Healthcare_Access=43, 
+Healthcare_Quality=44, 
+Public_Health=35.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Tennessee", 
+Rank=43, 
+Healthcare_Access=38, 
+Healthcare_Quality=31, 
+Public_Health=43.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Kentucky", 
+Rank=44, 
+Healthcare_Access=17, 
+Healthcare_Quality=47, 
+Public_Health=46.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Louisiana", 
+Rank=45, 
+Healthcare_Access=27, 
+Healthcare_Quality=40, 
+Public_Health=44.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Alabama", 
+Rank=46, 
+Healthcare_Access=37, 
+Healthcare_Quality=39, 
+Public_Health=47.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Oklahoma", 
+Rank=47, 
+Healthcare_Access=48, 
+Healthcare_Quality=46, 
+Public_Health=45.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="West Virginia", 
+Rank=48, 
+Healthcare_Access=28, 
+Healthcare_Quality=48, 
+Public_Health=50.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Arkansas", 
+Rank=49, 
+Healthcare_Access=45, 
+Healthcare_Quality=49, 
+Public_Health=49.
+
+
+Healthcare_rank(State, Rank, Healthcare_Access, Healthcare_Quality, Public_Health) :- 
+State="Mississippi", 
+Rank=50, 
+Healthcare_Access=50, 
+Healthcare_Quality=50, 
+Public_Health=48.
+
+
+US_Region(State, Region) :- 
+State="Vermont", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Connecticut", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Delaware", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Pennsylvania", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Maine", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Massachusetts", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Maryland", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="New Hampshire", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="New Jersey", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="New York", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Rhode Island", 
+Region="Northeast".
+
+
+US_Region(State, Region) :- 
+State="Minnesota", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="North Dakota", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="South Dakota", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Iowa", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Nebraska", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Wisconsin", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Missouri", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Indiana", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Illinois", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Michigan", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Ohio", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Kansas", 
+Region="Midwest".
+
+
+US_Region(State, Region) :- 
+State="Hawaii", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Alaska", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Idaho", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Montana", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Colorado", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Wyoming", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Utah", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Nevada", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Arizona", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="California", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Washington", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="Oregon", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="New Mexico", 
+Region="West".
+
+
+US_Region(State, Region) :- 
+State="West Virginia", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Virginia", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Texas", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Tennessee", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="South Carolina", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Oklahoma", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="North Carolina", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Mississippi", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Maryland", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Louisiana", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Kentucky", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Georgia", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Florida", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="the District of Columbia", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Delaware", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Arkansas", 
+Region="South".
+
+
+US_Region(State, Region) :- 
+State="Alabama", 
+Region="South".
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Alabama", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.245000, 
+Annual_Mean_Wage=44930, 
+Median_Monly_Rent=998, 
+Dollar_Value=1.150000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Alaska", 
+Largest_Industry="Oil and gas extraction", 
+Bachelor_Rate=0.290000, 
+Annual_Mean_Wage=59290, 
+Median_Monly_Rent=1748, 
+Dollar_Value=0.950000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Arizona", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.284000, 
+Annual_Mean_Wage=50930, 
+Median_Monly_Rent=1356, 
+Dollar_Value=1.040000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Arkansas", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.220000, 
+Annual_Mean_Wage=42690, 
+Median_Monly_Rent=953, 
+Dollar_Value=1.150000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="California", 
+Largest_Industry="Computers and electronics manufacturing", 
+Bachelor_Rate=0.326000, 
+Annual_Mean_Wage=61290, 
+Median_Monly_Rent=2518, 
+Dollar_Value=0.870000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Colorado", 
+Largest_Industry="Oil and gas extraction", 
+Bachelor_Rate=0.394000, 
+Annual_Mean_Wage=57690, 
+Median_Monly_Rent=1927, 
+Dollar_Value=0.970000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Connecticut", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.384000, 
+Annual_Mean_Wage=62350, 
+Median_Monly_Rent=1803, 
+Dollar_Value=0.920000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Delaware", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.310000, 
+Annual_Mean_Wage=54370, 
+Median_Monly_Rent=1435, 
+Dollar_Value=1.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="District of Columbia", 
+Largest_Industry="Federal Government", 
+Bachelor_Rate=0.566000, 
+Annual_Mean_Wage=62020, 
+Median_Monly_Rent=1838, 
+Dollar_Value=0.950000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Florida", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.285000, 
+Annual_Mean_Wage=47750, 
+Median_Monly_Rent=1590, 
+Dollar_Value=1.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Georgia", 
+Largest_Industry="Broadcasting and telecommunications", 
+Bachelor_Rate=0.299000, 
+Annual_Mean_Wage=49620, 
+Median_Monly_Rent=1262, 
+Dollar_Value=1.090000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Hawaii", 
+Largest_Industry="Accommodation", 
+Bachelor_Rate=0.320000, 
+Annual_Mean_Wage=54930, 
+Median_Monly_Rent=2481, 
+Dollar_Value=0.840000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Idaho", 
+Largest_Industry="Computers and electronics manufacturing", 
+Bachelor_Rate=0.268000, 
+Annual_Mean_Wage=44890, 
+Median_Monly_Rent=1238, 
+Dollar_Value=1.080000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Illinois", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.334000, 
+Annual_Mean_Wage=55130, 
+Median_Monly_Rent=1463, 
+Dollar_Value=1.010000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Indiana", 
+Largest_Industry="Chemical products manufacturing", 
+Bachelor_Rate=0.253000, 
+Annual_Mean_Wage=46770, 
+Median_Monly_Rent=1113, 
+Dollar_Value=1.110000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Iowa", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.277000, 
+Annual_Mean_Wage=47330, 
+Median_Monly_Rent=1057, 
+Dollar_Value=1.110000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Kansas", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.323000, 
+Annual_Mean_Wage=46520, 
+Median_Monly_Rent=1051, 
+Dollar_Value=1.100000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Kentucky", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.232000, 
+Annual_Mean_Wage=44020, 
+Median_Monly_Rent=1084, 
+Dollar_Value=1.140000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Louisiana", 
+Largest_Industry="Petroleum and coal products manufacturing", 
+Bachelor_Rate=0.234000, 
+Annual_Mean_Wage=44170, 
+Median_Monly_Rent=1245, 
+Dollar_Value=1.110000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Maine", 
+Largest_Industry="Health Hospitals and nursing and residential care facilitiescare and social assistance", 
+Bachelor_Rate=0.303000, 
+Annual_Mean_Wage=48470, 
+Median_Monly_Rent=1466, 
+Dollar_Value=1.020000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Maryland", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.390000, 
+Annual_Mean_Wage=60230, 
+Median_Monly_Rent=1807, 
+Dollar_Value=0.910000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Massachusetts", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.421000, 
+Annual_Mean_Wage=65680, 
+Median_Monly_Rent=2252, 
+Dollar_Value=0.930000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Michigan", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.281000, 
+Annual_Mean_Wage=50780, 
+Median_Monly_Rent=1110, 
+Dollar_Value=1.070000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Minnesota", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.348000, 
+Annual_Mean_Wage=55890, 
+Median_Monly_Rent=1449, 
+Dollar_Value=1.030000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Mississippi", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.213000, 
+Annual_Mean_Wage=40090, 
+Median_Monly_Rent=1055, 
+Dollar_Value=1.160000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Missouri", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.282000, 
+Annual_Mean_Wage=47820, 
+Median_Monly_Rent=1047, 
+Dollar_Value=1.120000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Montana", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.307000, 
+Annual_Mean_Wage=45370, 
+Median_Monly_Rent=1234, 
+Dollar_Value=1.060000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Nebraska", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.306000, 
+Annual_Mean_Wage=48250, 
+Median_Monly_Rent=1253, 
+Dollar_Value=1.100000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Nevada", 
+Largest_Industry="Accommodation", 
+Bachelor_Rate=0.237000, 
+Annual_Mean_Wage=47210, 
+Median_Monly_Rent=1423, 
+Dollar_Value=1.030000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="New Hampshire", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.360000, 
+Annual_Mean_Wage=53950, 
+Median_Monly_Rent=1748, 
+Dollar_Value=0.940000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="New Jersey", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.381000, 
+Annual_Mean_Wage=59980, 
+Median_Monly_Rent=2062, 
+Dollar_Value=0.880000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="New Mexico", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.269000, 
+Annual_Mean_Wage=47040, 
+Median_Monly_Rent=1200, 
+Dollar_Value=1.070000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="New York", 
+Largest_Industry=" Federal Reserve banks and credit services", 
+Bachelor_Rate=0.353000, 
+Annual_Mean_Wage=63970, 
+Median_Monly_Rent=2050, 
+Dollar_Value=0.870000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="North Carolina", 
+Largest_Industry="Chemical products manufacturing", 
+Bachelor_Rate=0.299000, 
+Annual_Mean_Wage=48550, 
+Median_Monly_Rent=1208, 
+Dollar_Value=1.100000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="North Dakota", 
+Largest_Industry="Oil and gas extraction", 
+Bachelor_Rate=0.289000, 
+Annual_Mean_Wage=50430, 
+Median_Monly_Rent=1290, 
+Dollar_Value=1.090000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Ohio", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.272000, 
+Annual_Mean_Wage=49430, 
+Median_Monly_Rent=1113, 
+Dollar_Value=1.120000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Oklahoma", 
+Largest_Industry="Oil and gas extraction", 
+Bachelor_Rate=0.248000, 
+Annual_Mean_Wage=45620, 
+Median_Monly_Rent=950, 
+Dollar_Value=1.120000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Oregon", 
+Largest_Industry="Computers and electronics manufacturing", 
+Bachelor_Rate=0.323000, 
+Annual_Mean_Wage=53890, 
+Median_Monly_Rent=1707, 
+Dollar_Value=1.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Pennsylvania", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.301000, 
+Annual_Mean_Wage=51340, 
+Median_Monly_Rent=1242, 
+Dollar_Value=1.020000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Rhode Island", 
+Largest_Industry="Hospitals and nursing and residential care facilities", 
+Bachelor_Rate=0.330000, 
+Annual_Mean_Wage=57220, 
+Median_Monly_Rent=1725, 
+Dollar_Value=1.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="South Carolina", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.270000, 
+Annual_Mean_Wage=44380, 
+Median_Monly_Rent=1209, 
+Dollar_Value=1.110000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="South Dakota", 
+Largest_Industry=" Federal Reserve banks and credit services", 
+Bachelor_Rate=0.278000, 
+Annual_Mean_Wage=42920, 
+Median_Monly_Rent=1213, 
+Dollar_Value=1.130000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Tennessee", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.261000, 
+Annual_Mean_Wage=45650, 
+Median_Monly_Rent=1153, 
+Dollar_Value=1.110000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Texas", 
+Largest_Industry="Oil and gas extraction", 
+Bachelor_Rate=0.287000, 
+Annual_Mean_Wage=50490, 
+Median_Monly_Rent=1455, 
+Dollar_Value=1.030000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Utah", 
+Largest_Industry=" Federal Reserve banks and credit services", 
+Bachelor_Rate=0.325000, 
+Annual_Mean_Wage=49420, 
+Median_Monly_Rent=1526, 
+Dollar_Value=1.030000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Vermont", 
+Largest_Industry="Ambulatory health care services", 
+Bachelor_Rate=0.368000, 
+Annual_Mean_Wage=51120, 
+Median_Monly_Rent=1599, 
+Dollar_Value=0.980000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Virginia", 
+Largest_Industry="Administrative and support services", 
+Bachelor_Rate=0.376000, 
+Annual_Mean_Wage=56740, 
+Median_Monly_Rent=1452, 
+Dollar_Value=0.980000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Washington", 
+Largest_Industry="Publishing industries, except Internet (includes software)", 
+Bachelor_Rate=0.345000, 
+Annual_Mean_Wage=62020, 
+Median_Monly_Rent=1838, 
+Dollar_Value=0.950000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="West Virginia", 
+Largest_Industry="Mining, except oil and gas", 
+Bachelor_Rate=0.199000, 
+Annual_Mean_Wage=43420, 
+Median_Monly_Rent=888, 
+Dollar_Value=1.140000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Wisconsin", 
+Largest_Industry="Insurance", 
+Bachelor_Rate=0.290000, 
+Annual_Mean_Wage=48850, 
+Median_Monly_Rent=1141, 
+Dollar_Value=1.080000.
+
+
+Additional_info(State, Largest_Industry, Bachelor_Rate, Annual_Mean_Wage, Median_Monly_Rent, Dollar_Value) :- 
+State="Wyoming", 
+Largest_Industry="Oil and gas extraction", 
+Bachelor_Rate=0.267000, 
+Annual_Mean_Wage=49760, 
+Median_Monly_Rent=1149, 
+Dollar_Value=1.030000.
+
+
+US_map(State, x, y) :- 
+State="Alaska", 
+-x+1.444444y<210.444443, 
+x+8.375000y<1832, 
+x+0.253333y<207.666672, 
+x-y<51, 
+x-1.075472y<44.056602, 
+-x-0.728814y<-114.423729, 
+-x+0.096386y<-33.554218.
+
+
+US_map(State, x, y) :- 
+State="Alaska", 
+x+0.321429y<216.178574, 
+x-8.400000y<-629.799988, 
+-x+y<-51.
+
+
+US_map(State, x, y) :- 
+State="Alaska", 
+x+2.352941y<413.235291, 
+x-0.812500y<213.812500, 
+-x-1.634146y<-328.804871, 
+-x<-185.
+
+
+US_map(State, x, y) :- 
+State="Hawaii", 
+-x+0.416667y<-304.083344, 
+x+1.071429y<457.357147, 
+x-1.333333y<277, 
+-x-0.727273y<-394.454559.
+
+
+US_map(State, x, y) :- 
+State="Washington", 
+x+5.142857y<2926.857178, 
+x-0.564103y<-263.333344, 
+-x-0.304348y<-188.260864.
+
+
+US_map(State, x, y) :- 
+State="Washington", 
+y<577, 
+x<140, 
+-x-2.256410y<-1313.333374, 
+-x<-52.
+
+
+US_map(State, x, y) :- 
+State="Washington", 
+x+2.256410y<1313.333374, 
+-y<-520, 
+-x+0.564103y<263.333344.
+
+
+US_map(State, x, y) :- 
+State="Montana", 
+x+1.025000y<745.424988, 
+x-3y<-1255, 
+-x-0.577778y<-487.377777.
+
+
+US_map(State, x, y) :- 
+State="Montana", 
+y<577, 
+x<348, 
+-y<-497, 
+-x-1.025000y<-745.424988.
+
+
+US_map(State, x, y) :- 
+State="Oregon", 
+y<520, 
+x<140, 
+-y<-440, 
+-x+0.062500y<2.500000.
+
+
+US_map(State, x, y) :- 
+State="Idaho", 
+y<577, 
+x+0.598540y<499.357666, 
+-y<-440, 
+-x<-140.
+
+
+US_map(State, x, y) :- 
+State="Idaho", 
+-x+3y<1255, 
+x<236, 
+-x-0.638298y<-516.851074.
+
+
+US_map(State, x, y) :- 
+State="Wyoming", 
+y<497, 
+x<348, 
+-y<-418, 
+-x<-236.
+
+
+US_map(State, x, y) :- 
+State="California", 
+y<440, 
+x<93, 
+x-0.075269y<64.322578, 
+-x-0.543103y<-242.413788, 
+-x+0.055556y<-0.555556.
+
+
+US_map(State, x, y) :- 
+State="California", 
+x+1.049383y<492.814819, 
+x<178, 
+-x-6.833333y<-1893.166626, 
+-x-1.645161y<-559.806458, 
+-x+0.075269y<-64.322578.
+
+
+US_map(State, x, y) :- 
+State="Nevada", 
+y<440, 
+x<187, 
+x-0.230769y<108.769234, 
+-x-1.049383y<-492.814819, 
+-x<-93.
+
+
+US_map(State, x, y) :- 
+State="Arizona", 
+y<339, 
+x<268, 
+-y<-223, 
+-x-1.928571y<-662.071411, 
+-x<-178, 
+-x+0.230769y<-108.769234.
+
+
+US_map(State, x, y) :- 
+State="Utah", 
+y<418, 
+x<268, 
+-y<-339, 
+-x<-187.
+
+
+US_map(State, x, y) :- 
+State="Utah", 
+y<440, 
+x<236, 
+-y<-418, 
+-x<-187.
+
+
+US_map(State, x, y) :- 
+State="Colorado", 
+y<418, 
+x<379, 
+-y<-339, 
+-x<-268.
+
+
+US_map(State, x, y) :- 
+State="New Mexico", 
+y<339, 
+x<365, 
+-y<-237, 
+-x-0.382353y<-397.617645.
+
+
+US_map(State, x, y) :- 
+State="New Mexico", 
+x+0.382353y<397.617645, 
+x-2.785714y<-353.214294, 
+-x<-268.
+
+
+US_map(State, x, y) :- 
+State="Texas", 
+y<237, 
+x+0.325581y<442.162781, 
+x-0.888889y<206.555557, 
+-x-0.918033y<-524.573792.
+
+
+US_map(State, x, y) :- 
+State="Texas", 
+y<328, 
+x<413, 
+x-0.888889y<154.333328, 
+-x<-365.
+
+
+US_map(State, x, y) :- 
+State="Texas", 
+x+4.777778y<1803.333374, 
+x+2y<1045, 
+x+0.094595y<532.445923, 
+x-1.457143y<229.857147, 
+-x-2.470588y<-858.294128, 
+-x-0.325581y<-442.162781, 
+-x+0.888889y<-154.333328.
+
+
+US_map(State, x, y) :- 
+State="Texas", 
+x+2.470588y<858.294128, 
+x-0.200000y<431, 
+-x-0.949367y<-563.177185.
+
+
+US_map(State, x, y) :- 
+State="South Dakota", 
+-x+2.600000y<747.799988, 
+x<469, 
+-x-3.250000y<-1931.500000.
+
+
+US_map(State, x, y) :- 
+State="South Dakota", 
+y<518, 
+x+0.020000y<478.359985, 
+x-2.600000y<-747.799988, 
+-y<-458, 
+-x<-348.
+
+
+US_map(State, x, y) :- 
+State="Oklahoma", 
+y<339, 
+x<413, 
+-y<-328, 
+-x<-365.
+
+
+US_map(State, x, y) :- 
+State="Oklahoma", 
+y<339, 
+x<499, 
+-x-4.777778y<-1803.333374, 
+-x<-413.
+
+
+US_map(State, x, y) :- 
+State="Kansas", 
+y<398, 
+x+0.764706y<790.352966, 
+x<499, 
+-y<-339, 
+-x<-379.
+
+
+US_map(State, x, y) :- 
+State="Nebraska", 
+y<458, 
+x-0.450000y<190.899994, 
+-y<-418, 
+-x<-348.
+
+
+US_map(State, x, y) :- 
+State="Nebraska", 
+x-0.150000y<328.299988, 
+-y<-398, 
+-x<-379, 
+-x+0.450000y<-190.899994.
+
+
+US_map(State, x, y) :- 
+State="Nebraska", 
+y<458, 
+x+3.250000y<1931.500000, 
+x+0.326923y<616.115356, 
+-y<-398, 
+-x+0.150000y<-328.299988.
+
+
+US_map(State, x, y) :- 
+State="North Dakota", 
+y<577, 
+x+0.186441y<564.576294, 
+-y<-518, 
+-x<-348.
+
+
+US_map(State, x, y) :- 
+State="Louisiana", 
+-x+45y<11102, 
+x-0.142857y<516, 
+x-1.500000y<221.500000, 
+-x-0.095238y<-532.571411.
+
+
+US_map(State, x, y) :- 
+State="Louisiana", 
+y<217, 
+x<579, 
+-x-4.333333y<-1359, 
+-x+1.500000y<-221.500000.
+
+
+US_map(State, x, y) :- 
+State="Arkansas", 
+y<329, 
+x-1.266667y<166.266663, 
+-x-2y<-1045, 
+-x<-499.
+
+
+US_map(State, x, y) :- 
+State="Arkansas", 
+x-0.428571y<442, 
+x-45y<-11102, 
+-x-0.090909y<-531.454529, 
+-x+1.266667y<-166.266663.
+
+
+US_map(State, x, y) :- 
+State="Missouri", 
+-x+1.851852y<206.555557, 
+x+0.430380y<724.594910, 
+-y<-329, 
+-x<-499.
+
+
+US_map(State, x, y) :- 
+State="Missouri", 
+y<408, 
+x-1.851852y<-206.555557, 
+-x-0.764706y<-790.352966, 
+-x-0.400000y<-645.200012.
+
+
+US_map(State, x, y) :- 
+State="Iowa", 
+y<468, 
+x+0.619048y<841.714294, 
+x-0.410256y<381.615387, 
+-y<-408, 
+-x-0.309524y<-608.285706, 
+-x<-469.
+
+
+US_map(State, x, y) :- 
+State="Minnesota", 
+-x+2.259259y<588.333313, 
+x+0.814815y<933.333313, 
+-y<-468.
+
+
+US_map(State, x, y) :- 
+State="Minnesota", 
+-x+4.312500y<1765.875000, 
+x-0.179487y<441.153839, 
+x-2.259259y<-588.333313, 
+-x-0.020000y<-478.359985.
+
+
+US_map(State, x, y) :- 
+State="Minnesota", 
+x+1.860465y<1530.488403, 
+x-4.312500y<-1765.875000, 
+-x-0.186441y<-564.576294.
+
+
+US_map(State, x, y) :- 
+State="Minnesota", 
+x+6.050000y<3947.850098, 
+x-1.782609y<-414.913055, 
+-x-1.860465y<-1530.488403.
+
+
+US_map(State, x, y) :- 
+State="Wisconsin", 
+x+13.500000y<7746, 
+x+2.650000y<1973.800049, 
+x-1.477273y<-139.363632, 
+-x-0.814815y<-933.333313, 
+-x+0.179487y<-441.153839.
+
+
+US_map(State, x, y) :- 
+State="Wisconsin", 
+-x+1.477273y<139.363632, 
+x-0.107692y<561.861511, 
+-y<-447, 
+-x-0.619048y<-841.714294.
+
+
+US_map(State, x, y) :- 
+State="Illinois", 
+y<447, 
+x<610, 
+x-0.529412y<412.529419, 
+x-0.666667y<363.666656, 
+-x-0.430380y<-724.594910, 
+-x+0.410256y<-381.615387.
+
+
+US_map(State, x, y) :- 
+State="Illinois", 
+x+2.230769y<1442.076904, 
+x-9.500000y<-2781, 
+-x+0.529412y<-412.529419.
+
+
+US_map(State, x, y) :- 
+State="Mississippi", 
+y<297, 
+x-0.087500y<578.012512, 
+-y<-217, 
+-x+0.142857y<-516, 
+-x+0.421053y<-443.947357.
+
+
+US_map(State, x, y) :- 
+State="Mississippi", 
+y<217, 
+x<597, 
+-y<-203, 
+-x<-579.
+
+
+US_map(State, x, y) :- 
+State="Alabama", 
+y<297, 
+x+0.137500y<682.837524, 
+-y<-217, 
+-x+0.087500y<-578.012512.
+
+
+US_map(State, x, y) :- 
+State="Alabama", 
+y<217, 
+x<614, 
+-y<-203, 
+-x<-597.
+
+
+US_map(State, x, y) :- 
+State="Tennessee", 
+y<329, 
+x-1.468750y<223.781250, 
+-y<-297, 
+-x+0.437500y<-439.062500.
+
+
+US_map(State, x, y) :- 
+State="Kentucky", 
+-x+9.500000y<2781, 
+x+1.258065y<1091.903198, 
+-y<-329, 
+-x+0.666667y<-363.666656.
+
+
+US_map(State, x, y) :- 
+State="Kentucky", 
+x+3.400000y<1944.599976, 
+x+0.476190y<865.714294, 
+x-1.157895y<297.052643, 
+-x-1.258065y<-1091.903198, 
+-x+0.894737y<-316.894745.
+
+
+US_map(State, x, y) :- 
+State="Indiana", 
+y<433, 
+x<656, 
+x-0.894737y<316.894745, 
+-x-2.230769y<-1442.076904, 
+-x<-610.
+
+
+US_map(State, x, y) :- 
+State="Michigan", 
+x+0.515625y<927.578125, 
+x-0.842105y<312.526306, 
+-y<-434, 
+-x<-627, 
+-x+0.723404y<-287.
+
+
+US_map(State, x, y) :- 
+State="Michigan", 
+y<532, 
+x+0.666667y<1019.666687, 
+x-11.600000y<-5322.200195, 
+-x-2.650000y<-1973.800049.
+
+
+US_map(State, x, y) :- 
+State="Ohio", 
+y<433, 
+x+0.050000y<744.650024, 
+x-1.458333y<151.875000, 
+-x-3.400000y<-1944.599976, 
+-x<-656.
+
+
+US_map(State, x, y) :- 
+State="West Virginia", 
+-x+1.458333y<-151.875000, 
+y<393, 
+x-1.057692y<350.326935, 
+-x-1.571429y<-1246.857178, 
+-x-0.476190y<-865.714294.
+
+
+US_map(State, x, y) :- 
+State="Virginia", 
+x+0.515625y<968.640625, 
+-y<-329, 
+-x-1.083333y<-1080.416626, 
+-x+1.057692y<-350.326935.
+
+
+US_map(State, x, y) :- 
+State="Virginia", 
+x+1.571429y<1246.857178, 
+x-2.750000y<-226.750000, 
+-x+1.157895y<-297.052643.
+
+
+US_map(State, x, y) :- 
+State="Virginia", 
+x+1.083333y<1080.416626, 
+-y<-329, 
+-x+2.750000y<226.750000.
+
+
+US_map(State, x, y) :- 
+State="North Carolina", 
+y<329, 
+x-1.968750y<151.281250, 
+-y<-297, 
+-x+1.468750y<-223.781250.
+
+
+US_map(State, x, y) :- 
+State="North Carolina", 
+x+0.230769y<874.923096, 
+x-1.793103y<261.689667, 
+-x-0.739130y<-955.521729, 
+-x+1.968750y<-151.281250.
+
+
+US_map(State, x, y) :- 
+State="South Carolina", 
+y<297, 
+x+0.739130y<955.521729, 
+x-1.060606y<462.393951, 
+-x-0.714286y<-890.142883.
+
+
+US_map(State, x, y) :- 
+State="Georgia", 
+y<297, 
+x+0.714286y<890.142883, 
+x-0.322581y<640.258057, 
+-y<-210, 
+-x-0.571429y<-777, 
+-x-0.137500y<-682.837524.
+
+
+US_map(State, x, y) :- 
+State="Florida", 
+y<217, 
+x+0.695652y<803.956543, 
+-x-6.111111y<-1854.555542, 
+-x<-614.
+
+
+US_map(State, x, y) :- 
+State="Florida", 
+y<210, 
+x+0.317073y<774.585388, 
+x-0.451613y<676.193542, 
+-x-0.557522y<-774.079651.
+
+
+US_map(State, x, y) :- 
+State="Maryland", 
+y<393, 
+x-0.031250y<788.718750, 
+-x-0.515625y<-968.640625.
+
+
+US_map(State, x, y) :- 
+State="Delaware", 
+x+0.619048y<1044.285767, 
+x-0.348837y<684.232544, 
+-x+0.031250y<-788.718750.
+
+
+US_map(State, x, y) :- 
+State="New Jersey", 
+x+1.250000y<1351.750000, 
+x-0.441860y<649.627930, 
+-x-0.619048y<-1044.285767, 
+-x+0.500000y<-604.500000.
+
+
+US_map(State, x, y) :- 
+State="Pennsylvania", 
+y<433, 
+x+1.500000y<1458.500000, 
+x-0.500000y<604.500000, 
+-y<-393, 
+-x-0.050000y<-744.650024.
+
+
+US_map(State, x, y) :- 
+State="Connecticut", 
+y<433, 
+x<860, 
+x-6.750000y<-1968.250000, 
+-x<-833.
+
+
+US_map(State, x, y) :- 
+State="Rhode Island", 
+y<433, 
+x<893, 
+x-8.250000y<-2596.750000, 
+-x<-860.
+
+
+US_map(State, x, y) :- 
+State="Massachusetts", 
+y<450, 
+x<876, 
+-y<-433, 
+-x<-833.
+
+
+US_map(State, x, y) :- 
+State="Vermont", 
+y<499, 
+x-0.367347y<687.693848, 
+-y<-450, 
+-x+0.122449y<-777.897949.
+
+
+US_map(State, x, y) :- 
+State="New Hampshire", 
+x+0.209302y<979.697693, 
+x-0.583333y<613.500000, 
+-y<-450, 
+-x+0.381818y<-681.181824.
+
+
+US_map(State, x, y) :- 
+State="Maine", 
+-x+0.804878y<-467.536591, 
+x+4.200000y<3200.199951, 
+x+0.131868y<999.340637, 
+-x-4.750000y<-3077.500000, 
+-x-0.209302y<-979.697693.
+
+
+US_map(State, x, y) :- 
+State="New York", 
+-x+1.363636y<-132.545456, 
+y<499, 
+x-0.090909y<793.636353, 
+-y<-433.
+
+
+US_map(State, x, y) :- 
+State="New York", 
+y<433, 
+x-2.500000y<-249.500000, 
+-x-1.500000y<-1458.500000.
+
+
+US_map(State, x, y) :- 
+State="New York", 
+-x+2.500000y<249.500000, 
+x<833, 
+-x-1.250000y<-1351.750000.
+
+
+Scale(Const_0) :- 
+Const_0=5.410000.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=1, 
+u_Rate=3.572500.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=2, 
+u_Rate=3.566700.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=3, 
+u_Rate=4.176500.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=4, 
+u_Rate=13.445100.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=5, 
+u_Rate=12.347100.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=6, 
+u_Rate=9.831400.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=7, 
+u_Rate=9.202000.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=8, 
+u_Rate=7.702000.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=9, 
+u_Rate=7.205900.
+
+
+Average_Unemployment(u_Month, u_Rate) :- 
+u_Month=10, 
+u_Rate=6.368600.
+
+
+South(State, x, y) :- 
+State="West Virginia", 
+-x+1.458333y<-151.875000, 
+y<393, 
+x-1.057692y<350.326935, 
+-x-1.571429y<-1246.857178, 
+-x-0.476190y<-865.714294.
+
+
+South(State, x, y) :- 
+State="Virginia", 
+x+0.515625y<968.640625, 
+-y<-329, 
+-x-1.083333y<-1080.416626, 
+-x+1.057692y<-350.326935.
+
+
+South(State, x, y) :- 
+State="Virginia", 
+x+1.571429y<1246.857178, 
+x-2.750000y<-226.750000, 
+-x+1.157895y<-297.052643.
+
+
+South(State, x, y) :- 
+State="Virginia", 
+x+1.083333y<1080.416626, 
+-y<-329, 
+-x+2.750000y<226.750000.
+
+
+South(State, x, y) :- 
+State="Texas", 
+y<237, 
+x+0.325581y<442.162781, 
+x-0.888889y<206.555557, 
+-x-0.918033y<-524.573792.
+
+
+South(State, x, y) :- 
+State="Texas", 
+y<328, 
+x<413, 
+x-0.888889y<154.333328, 
+-x<-365.
+
+
+South(State, x, y) :- 
+State="Texas", 
+x+4.777778y<1803.333374, 
+x+2y<1045, 
+x+0.094595y<532.445923, 
+x-1.457143y<229.857147, 
+-x-2.470588y<-858.294128, 
+-x-0.325581y<-442.162781, 
+-x+0.888889y<-154.333328.
+
+
+South(State, x, y) :- 
+State="Texas", 
+x+2.470588y<858.294128, 
+x-0.200000y<431, 
+-x-0.949367y<-563.177185.
+
+
+South(State, x, y) :- 
+State="Tennessee", 
+y<329, 
+x-1.468750y<223.781250, 
+-y<-297, 
+-x+0.437500y<-439.062500.
+
+
+South(State, x, y) :- 
+State="South Carolina", 
+y<297, 
+x+0.739130y<955.521729, 
+x-1.060606y<462.393951, 
+-x-0.714286y<-890.142883.
+
+
+South(State, x, y) :- 
+State="Oklahoma", 
+y<339, 
+x<413, 
+-y<-328, 
+-x<-365.
+
+
+South(State, x, y) :- 
+State="Oklahoma", 
+y<339, 
+x<499, 
+-x-4.777778y<-1803.333374, 
+-x<-413.
+
+
+South(State, x, y) :- 
+State="North Carolina", 
+y<329, 
+x-1.968750y<151.281250, 
+-y<-297, 
+-x+1.468750y<-223.781250.
+
+
+South(State, x, y) :- 
+State="North Carolina", 
+x+0.230769y<874.923096, 
+x-1.793103y<261.689667, 
+-x-0.739130y<-955.521729, 
+-x+1.968750y<-151.281250.
+
+
+South(State, x, y) :- 
+State="Mississippi", 
+y<297, 
+x-0.087500y<578.012512, 
+-y<-217, 
+-x+0.142857y<-516, 
+-x+0.421053y<-443.947357.
+
+
+South(State, x, y) :- 
+State="Mississippi", 
+y<217, 
+x<597, 
+-y<-203, 
+-x<-579.
+
+
+South(State, x, y) :- 
+State="Maryland", 
+y<393, 
+x-0.031250y<788.718750, 
+-x-0.515625y<-968.640625.
+
+
+South(State, x, y) :- 
+State="Louisiana", 
+-x+45y<11102, 
+x-0.142857y<516, 
+x-1.500000y<221.500000, 
+-x-0.095238y<-532.571411.
+
+
+South(State, x, y) :- 
+State="Louisiana", 
+y<217, 
+x<579, 
+-x-4.333333y<-1359, 
+-x+1.500000y<-221.500000.
+
+
+South(State, x, y) :- 
+State="Kentucky", 
+-x+9.500000y<2781, 
+x+1.258065y<1091.903198, 
+-y<-329, 
+-x+0.666667y<-363.666656.
+
+
+South(State, x, y) :- 
+State="Kentucky", 
+x+3.400000y<1944.599976, 
+x+0.476190y<865.714294, 
+x-1.157895y<297.052643, 
+-x-1.258065y<-1091.903198, 
+-x+0.894737y<-316.894745.
+
+
+South(State, x, y) :- 
+State="Georgia", 
+y<297, 
+x+0.714286y<890.142883, 
+x-0.322581y<640.258057, 
+-y<-210, 
+-x-0.571429y<-777, 
+-x-0.137500y<-682.837524.
+
+
+South(State, x, y) :- 
+State="Florida", 
+y<217, 
+x+0.695652y<803.956543, 
+-x-6.111111y<-1854.555542, 
+-x<-614.
+
+
+South(State, x, y) :- 
+State="Florida", 
+y<210, 
+x+0.317073y<774.585388, 
+x-0.451613y<676.193542, 
+-x-0.557522y<-774.079651.
+
+
+South(State, x, y) :- 
+State="Delaware", 
+x+0.619048y<1044.285767, 
+x-0.348837y<684.232544, 
+-x+0.031250y<-788.718750.
+
+
+South(State, x, y) :- 
+State="Arkansas", 
+y<329, 
+x-1.266667y<166.266663, 
+-x-2y<-1045, 
+-x<-499.
+
+
+South(State, x, y) :- 
+State="Arkansas", 
+x-0.428571y<442, 
+x-45y<-11102, 
+-x-0.090909y<-531.454529, 
+-x+1.266667y<-166.266663.
+
+
+South(State, x, y) :- 
+State="Alabama", 
+y<297, 
+x+0.137500y<682.837524, 
+-y<-217, 
+-x+0.087500y<-578.012512.
+
+
+South(State, x, y) :- 
+State="Alabama", 
+y<217, 
+x<614, 
+-y<-203, 
+-x<-597.
+
+
+South_rate(Month, Rate) :- 
+Month=1, 
+Rate=3.751700.
+
+
+South_rate(Month, Rate) :- 
+Month=2, 
+Rate=3.337900.
+
+
+South_rate(Month, Rate) :- 
+Month=3, 
+Rate=4.417200.
+
+
+South_rate(Month, Rate) :- 
+Month=4, 
+Rate=12.948300.
+
+
+South_rate(Month, Rate) :- 
+Month=5, 
+Rate=11.669000.
+
+
+South_rate(Month, Rate) :- 
+Month=6, 
+Rate=8.348300.
+
+
+South_rate(Month, Rate) :- 
+Month=7, 
+Rate=8.455200.
+
+
+South_rate(Month, Rate) :- 
+Month=8, 
+Rate=6.934500.
+
+
+South_rate(Month, Rate) :- 
+Month=9, 
+Rate=7.013800.
+
+
+South_rate(Month, Rate) :- 
+Month=10, 
+Rate=6.537900.
+
+
+West(State, x, y) :- 
+State="Hawaii", 
+-x+0.416667y<-304.083344, 
+x+1.071429y<457.357147, 
+x-1.333333y<277, 
+-x-0.727273y<-394.454559.
+
+
+West(State, x, y) :- 
+State="Alaska", 
+-x+1.444444y<210.444443, 
+x+8.375000y<1832, 
+x+0.253333y<207.666672, 
+x-y<51, 
+x-1.075472y<44.056602, 
+-x-0.728814y<-114.423729, 
+-x+0.096386y<-33.554218.
+
+
+West(State, x, y) :- 
+State="Alaska", 
+x+0.321429y<216.178574, 
+x-8.400000y<-629.799988, 
+-x+y<-51.
+
+
+West(State, x, y) :- 
+State="Alaska", 
+x+2.352941y<413.235291, 
+x-0.812500y<213.812500, 
+-x-1.634146y<-328.804871, 
+-x<-185.
+
+
+West(State, x, y) :- 
+State="Idaho", 
+y<577, 
+x+0.598540y<499.357666, 
+-y<-440, 
+-x<-140.
+
+
+West(State, x, y) :- 
+State="Idaho", 
+-x+3y<1255, 
+x<236, 
+-x-0.638298y<-516.851074.
+
+
+West(State, x, y) :- 
+State="Montana", 
+x+1.025000y<745.424988, 
+x-3y<-1255, 
+-x-0.577778y<-487.377777.
+
+
+West(State, x, y) :- 
+State="Montana", 
+y<577, 
+x<348, 
+-y<-497, 
+-x-1.025000y<-745.424988.
+
+
+West(State, x, y) :- 
+State="Colorado", 
+y<418, 
+x<379, 
+-y<-339, 
+-x<-268.
+
+
+West(State, x, y) :- 
+State="Wyoming", 
+y<497, 
+x<348, 
+-y<-418, 
+-x<-236.
+
+
+West(State, x, y) :- 
+State="Utah", 
+y<418, 
+x<268, 
+-y<-339, 
+-x<-187.
+
+
+West(State, x, y) :- 
+State="Utah", 
+y<440, 
+x<236, 
+-y<-418, 
+-x<-187.
+
+
+West(State, x, y) :- 
+State="Nevada", 
+y<440, 
+x<187, 
+x-0.230769y<108.769234, 
+-x-1.049383y<-492.814819, 
+-x<-93.
+
+
+West(State, x, y) :- 
+State="Arizona", 
+y<339, 
+x<268, 
+-y<-223, 
+-x-1.928571y<-662.071411, 
+-x<-178, 
+-x+0.230769y<-108.769234.
+
+
+West(State, x, y) :- 
+State="California", 
+y<440, 
+x<93, 
+x-0.075269y<64.322578, 
+-x-0.543103y<-242.413788, 
+-x+0.055556y<-0.555556.
+
+
+West(State, x, y) :- 
+State="California", 
+x+1.049383y<492.814819, 
+x<178, 
+-x-6.833333y<-1893.166626, 
+-x-1.645161y<-559.806458, 
+-x+0.075269y<-64.322578.
+
+
+West(State, x, y) :- 
+State="Washington", 
+x+5.142857y<2926.857178, 
+x-0.564103y<-263.333344, 
+-x-0.304348y<-188.260864.
+
+
+West(State, x, y) :- 
+State="Washington", 
+y<577, 
+x<140, 
+-x-2.256410y<-1313.333374, 
+-x<-52.
+
+
+West(State, x, y) :- 
+State="Washington", 
+x+2.256410y<1313.333374, 
+-y<-520, 
+-x+0.564103y<263.333344.
+
+
+West(State, x, y) :- 
+State="Oregon", 
+y<520, 
+x<140, 
+-y<-440, 
+-x+0.062500y<2.500000.
+
+
+West(State, x, y) :- 
+State="New Mexico", 
+y<339, 
+x<365, 
+-y<-237, 
+-x-0.382353y<-397.617645.
+
+
+West(State, x, y) :- 
+State="New Mexico", 
+x+0.382353y<397.617645, 
+x-2.785714y<-353.214294, 
+-x<-268.
+
+
+West_rate(Month, Rate) :- 
+Month=1, 
+Rate=3.863600.
+
+
+West_rate(Month, Rate) :- 
+Month=2, 
+Rate=4.
+
+
+West_rate(Month, Rate) :- 
+Month=3, 
+Rate=4.536400.
+
+
+West_rate(Month, Rate) :- 
+Month=4, 
+Rate=13.700000.
+
+
+West_rate(Month, Rate) :- 
+Month=5, 
+Rate=12.668200.
+
+
+West_rate(Month, Rate) :- 
+Month=6, 
+Rate=9.854500.
+
+
+West_rate(Month, Rate) :- 
+Month=7, 
+Rate=9.640900.
+
+
+West_rate(Month, Rate) :- 
+Month=8, 
+Rate=7.886400.
+
+
+West_rate(Month, Rate) :- 
+Month=9, 
+Rate=7.886400.
+
+
+West_rate(Month, Rate) :- 
+Month=10, 
+Rate=6.936400.
+
+
+Northeast(State, x, y) :- 
+State="Vermont", 
+y<499, 
+x-0.367347y<687.693848, 
+-y<-450, 
+-x+0.122449y<-777.897949.
+
+
+Northeast(State, x, y) :- 
+State="Connecticut", 
+y<433, 
+x<860, 
+x-6.750000y<-1968.250000, 
+-x<-833.
+
+
+Northeast(State, x, y) :- 
+State="Delaware", 
+x+0.619048y<1044.285767, 
+x-0.348837y<684.232544, 
+-x+0.031250y<-788.718750.
+
+
+Northeast(State, x, y) :- 
+State="Pennsylvania", 
+y<433, 
+x+1.500000y<1458.500000, 
+x-0.500000y<604.500000, 
+-y<-393, 
+-x-0.050000y<-744.650024.
+
+
+Northeast(State, x, y) :- 
+State="Maine", 
+-x+0.804878y<-467.536591, 
+x+4.200000y<3200.199951, 
+x+0.131868y<999.340637, 
+-x-4.750000y<-3077.500000, 
+-x-0.209302y<-979.697693.
+
+
+Northeast(State, x, y) :- 
+State="Massachusetts", 
+y<450, 
+x<876, 
+-y<-433, 
+-x<-833.
+
+
+Northeast(State, x, y) :- 
+State="Maryland", 
+y<393, 
+x-0.031250y<788.718750, 
+-x-0.515625y<-968.640625.
+
+
+Northeast(State, x, y) :- 
+State="New Hampshire", 
+x+0.209302y<979.697693, 
+x-0.583333y<613.500000, 
+-y<-450, 
+-x+0.381818y<-681.181824.
+
+
+Northeast(State, x, y) :- 
+State="New Jersey", 
+x+1.250000y<1351.750000, 
+x-0.441860y<649.627930, 
+-x-0.619048y<-1044.285767, 
+-x+0.500000y<-604.500000.
+
+
+Northeast(State, x, y) :- 
+State="New York", 
+-x+1.363636y<-132.545456, 
+y<499, 
+x-0.090909y<793.636353, 
+-y<-433.
+
+
+Northeast(State, x, y) :- 
+State="New York", 
+y<433, 
+x-2.500000y<-249.500000, 
+-x-1.500000y<-1458.500000.
+
+
+Northeast(State, x, y) :- 
+State="New York", 
+-x+2.500000y<249.500000, 
+x<833, 
+-x-1.250000y<-1351.750000.
+
+
+Northeast(State, x, y) :- 
+State="Rhode Island", 
+y<433, 
+x<893, 
+x-8.250000y<-2596.750000, 
+-x<-860.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=1, 
+Rate=3.453800.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=2, 
+Rate=3.592300.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=3, 
+Rate=3.992300.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=4, 
+Rate=13.892300.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=5, 
+Rate=13.723100.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=6, 
+Rate=12.661500.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=7, 
+Rate=12.084600.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=8, 
+Rate=9.538500.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=9, 
+Rate=7.961500.
+
+
+Northeast_rate(Month, Rate) :- 
+Month=10, 
+Rate=7.
+
+
+Midwest(State, x, y) :- 
+State="Minnesota", 
+-x+2.259259y<588.333313, 
+x+0.814815y<933.333313, 
+-y<-468.
+
+
+Midwest(State, x, y) :- 
+State="Minnesota", 
+-x+4.312500y<1765.875000, 
+x-0.179487y<441.153839, 
+x-2.259259y<-588.333313, 
+-x-0.020000y<-478.359985.
+
+
+Midwest(State, x, y) :- 
+State="Minnesota", 
+x+1.860465y<1530.488403, 
+x-4.312500y<-1765.875000, 
+-x-0.186441y<-564.576294.
+
+
+Midwest(State, x, y) :- 
+State="Minnesota", 
+x+6.050000y<3947.850098, 
+x-1.782609y<-414.913055, 
+-x-1.860465y<-1530.488403.
+
+
+Midwest(State, x, y) :- 
+State="North Dakota", 
+y<577, 
+x+0.186441y<564.576294, 
+-y<-518, 
+-x<-348.
+
+
+Midwest(State, x, y) :- 
+State="South Dakota", 
+-x+2.600000y<747.799988, 
+x<469, 
+-x-3.250000y<-1931.500000.
+
+
+Midwest(State, x, y) :- 
+State="South Dakota", 
+y<518, 
+x+0.020000y<478.359985, 
+x-2.600000y<-747.799988, 
+-y<-458, 
+-x<-348.
+
+
+Midwest(State, x, y) :- 
+State="Iowa", 
+y<468, 
+x+0.619048y<841.714294, 
+x-0.410256y<381.615387, 
+-y<-408, 
+-x-0.309524y<-608.285706, 
+-x<-469.
+
+
+Midwest(State, x, y) :- 
+State="Nebraska", 
+y<458, 
+x-0.450000y<190.899994, 
+-y<-418, 
+-x<-348.
+
+
+Midwest(State, x, y) :- 
+State="Nebraska", 
+x-0.150000y<328.299988, 
+-y<-398, 
+-x<-379, 
+-x+0.450000y<-190.899994.
+
+
+Midwest(State, x, y) :- 
+State="Nebraska", 
+y<458, 
+x+3.250000y<1931.500000, 
+x+0.326923y<616.115356, 
+-y<-398, 
+-x+0.150000y<-328.299988.
+
+
+Midwest(State, x, y) :- 
+State="Wisconsin", 
+x+13.500000y<7746, 
+x+2.650000y<1973.800049, 
+x-1.477273y<-139.363632, 
+-x-0.814815y<-933.333313, 
+-x+0.179487y<-441.153839.
+
+
+Midwest(State, x, y) :- 
+State="Wisconsin", 
+-x+1.477273y<139.363632, 
+x-0.107692y<561.861511, 
+-y<-447, 
+-x-0.619048y<-841.714294.
+
+
+Midwest(State, x, y) :- 
+State="Missouri", 
+-x+1.851852y<206.555557, 
+x+0.430380y<724.594910, 
+-y<-329, 
+-x<-499.
+
+
+Midwest(State, x, y) :- 
+State="Missouri", 
+y<408, 
+x-1.851852y<-206.555557, 
+-x-0.764706y<-790.352966, 
+-x-0.400000y<-645.200012.
+
+
+Midwest(State, x, y) :- 
+State="Indiana", 
+y<433, 
+x<656, 
+x-0.894737y<316.894745, 
+-x-2.230769y<-1442.076904, 
+-x<-610.
+
+
+Midwest(State, x, y) :- 
+State="Illinois", 
+y<447, 
+x<610, 
+x-0.529412y<412.529419, 
+x-0.666667y<363.666656, 
+-x-0.430380y<-724.594910, 
+-x+0.410256y<-381.615387.
+
+
+Midwest(State, x, y) :- 
+State="Illinois", 
+x+2.230769y<1442.076904, 
+x-9.500000y<-2781, 
+-x+0.529412y<-412.529419.
+
+
+Midwest(State, x, y) :- 
+State="Michigan", 
+x+0.515625y<927.578125, 
+x-0.842105y<312.526306, 
+-y<-434, 
+-x<-627, 
+-x+0.723404y<-287.
+
+
+Midwest(State, x, y) :- 
+State="Michigan", 
+y<532, 
+x+0.666667y<1019.666687, 
+x-11.600000y<-5322.200195, 
+-x-2.650000y<-1973.800049.
+
+
+Midwest(State, x, y) :- 
+State="Ohio", 
+y<433, 
+x+0.050000y<744.650024, 
+x-1.458333y<151.875000, 
+-x-3.400000y<-1944.599976, 
+-x<-656.
+
+
+Midwest(State, x, y) :- 
+State="Kansas", 
+y<398, 
+x+0.764706y<790.352966, 
+x<499, 
+-y<-339, 
+-x<-379.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=1, 
+Rate=3.422700.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=2, 
+Rate=3.704500.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=3, 
+Rate=3.750000.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=4, 
+Rate=12.127300.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=5, 
+Rate=11.245500.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=6, 
+Rate=9.281800.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=7, 
+Rate=7.395500.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=8, 
+Rate=6.827300.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=9, 
+Rate=5.922700.
+
+
+Midwest_rate(Month, Rate) :- 
+Month=10, 
+Rate=4.731800.
+
+
+April_lowRate(State, x, y) :- 
+State="Connecticut", 
+y<433, 
+x<860, 
+x-6.750000y<-1968.250000, 
+-x<-833.
+
+
+April_lowRate(State, x, y) :- 
+State="Maryland", 
+y<393, 
+x-0.031250y<788.718750, 
+-x-0.515625y<-968.640625.
+
+
+April_lowRate(State, x, y) :- 
+State="Minnesota", 
+-x+2.259259y<588.333313, 
+x+0.814815y<933.333313, 
+-y<-468.
+
+
+April_lowRate(State, x, y) :- 
+State="Minnesota", 
+-x+4.312500y<1765.875000, 
+x-0.179487y<441.153839, 
+x-2.259259y<-588.333313, 
+-x-0.020000y<-478.359985.
+
+
+April_lowRate(State, x, y) :- 
+State="Minnesota", 
+x+1.860465y<1530.488403, 
+x-4.312500y<-1765.875000, 
+-x-0.186441y<-564.576294.
+
+
+April_lowRate(State, x, y) :- 
+State="Minnesota", 
+x+6.050000y<3947.850098, 
+x-1.782609y<-414.913055, 
+-x-1.860465y<-1530.488403.
+
+
+April_lowRate(State, x, y) :- 
+State="Missouri", 
+-x+1.851852y<206.555557, 
+x+0.430380y<724.594910, 
+-y<-329, 
+-x<-499.
+
+
+April_lowRate(State, x, y) :- 
+State="Missouri", 
+y<408, 
+x-1.851852y<-206.555557, 
+-x-0.764706y<-790.352966, 
+-x-0.400000y<-645.200012.
+
+
+April_lowRate(State, x, y) :- 
+State="Nebraska", 
+y<458, 
+x-0.450000y<190.899994, 
+-y<-418, 
+-x<-348.
+
+
+April_lowRate(State, x, y) :- 
+State="Nebraska", 
+x-0.150000y<328.299988, 
+-y<-398, 
+-x<-379, 
+-x+0.450000y<-190.899994.
+
+
+April_lowRate(State, x, y) :- 
+State="Nebraska", 
+y<458, 
+x+3.250000y<1931.500000, 
+x+0.326923y<616.115356, 
+-y<-398, 
+-x+0.150000y<-328.299988.
+
+
+April_lowRate(State, x, y) :- 
+State="North Dakota", 
+y<577, 
+x+0.186441y<564.576294, 
+-y<-518, 
+-x<-348.
+
+
+April_lowRate(State, x, y) :- 
+State="Utah", 
+y<418, 
+x<268, 
+-y<-339, 
+-x<-187.
+
+
+April_lowRate(State, x, y) :- 
+State="Utah", 
+y<440, 
+x<236, 
+-y<-418, 
+-x<-187.
+
+
+April_lowRate(State, x, y) :- 
+State="Wyoming", 
+y<497, 
+x<348, 
+-y<-418, 
+-x<-236.
+
+
+April_highRate(State, x, y) :- 
+State="California", 
+y<440, 
+x<93, 
+x-0.075269y<64.322578, 
+-x-0.543103y<-242.413788, 
+-x+0.055556y<-0.555556.
+
+
+April_highRate(State, x, y) :- 
+State="California", 
+x+1.049383y<492.814819, 
+x<178, 
+-x-6.833333y<-1893.166626, 
+-x-1.645161y<-559.806458, 
+-x+0.075269y<-64.322578.
+
+
+April_highRate(State, x, y) :- 
+State="Hawaii", 
+-x+0.416667y<-304.083344, 
+x+1.071429y<457.357147, 
+x-1.333333y<277, 
+-x-0.727273y<-394.454559.
+
+
+April_highRate(State, x, y) :- 
+State="Illinois", 
+y<447, 
+x<610, 
+x-0.529412y<412.529419, 
+x-0.666667y<363.666656, 
+-x-0.430380y<-724.594910, 
+-x+0.410256y<-381.615387.
+
+
+April_highRate(State, x, y) :- 
+State="Illinois", 
+x+2.230769y<1442.076904, 
+x-9.500000y<-2781, 
+-x+0.529412y<-412.529419.
+
+
+April_highRate(State, x, y) :- 
+State="Indiana", 
+y<433, 
+x<656, 
+x-0.894737y<316.894745, 
+-x-2.230769y<-1442.076904, 
+-x<-610.
+
+
+April_highRate(State, x, y) :- 
+State="Kentucky", 
+-x+9.500000y<2781, 
+x+1.258065y<1091.903198, 
+-y<-329, 
+-x+0.666667y<-363.666656.
+
+
+April_highRate(State, x, y) :- 
+State="Kentucky", 
+x+3.400000y<1944.599976, 
+x+0.476190y<865.714294, 
+x-1.157895y<297.052643, 
+-x-1.258065y<-1091.903198, 
+-x+0.894737y<-316.894745.
+
+
+April_highRate(State, x, y) :- 
+State="Massachusetts", 
+y<450, 
+x<876, 
+-y<-433, 
+-x<-833.
+
+
+April_highRate(State, x, y) :- 
+State="Michigan", 
+x+0.515625y<927.578125, 
+x-0.842105y<312.526306, 
+-y<-434, 
+-x<-627, 
+-x+0.723404y<-287.
+
+
+April_highRate(State, x, y) :- 
+State="Michigan", 
+y<532, 
+x+0.666667y<1019.666687, 
+x-11.600000y<-5322.200195, 
+-x-2.650000y<-1973.800049.
+
+
+April_highRate(State, x, y) :- 
+State="Mississippi", 
+y<297, 
+x-0.087500y<578.012512, 
+-y<-217, 
+-x+0.142857y<-516, 
+-x+0.421053y<-443.947357.
+
+
+April_highRate(State, x, y) :- 
+y<217, 
+x<597, 
+-y<-203, 
+-x<-579.
+
+
+April_highRate(State, x, y) :- 
+State="Nevada", 
+y<440, 
+x<187, 
+x-0.230769y<108.769234, 
+-x-1.049383y<-492.814819, 
+-x<-93.
+
+
+April_highRate(State, x, y) :- 
+State="New Hampshire", 
+x+0.209302y<979.697693, 
+x-0.583333y<613.500000, 
+-y<-450, 
+-x+0.381818y<-681.181824.
+
+
+April_highRate(State, x, y) :- 
+State="New Jersey", 
+x+1.250000y<1351.750000, 
+x-0.441860y<649.627930, 
+-x-0.619048y<-1044.285767, 
+-x+0.500000y<-604.500000.
+
+
+April_highRate(State, x, y) :- 
+State="Ohio", 
+y<433, 
+x+0.050000y<744.650024, 
+x-1.458333y<151.875000, 
+-x-3.400000y<-1944.599976, 
+-x<-656.
+
+
+April_highRate(State, x, y) :- 
+State="Pennsylvania", 
+y<433, 
+x+1.500000y<1458.500000, 
+x-0.500000y<604.500000, 
+-y<-393, 
+-x-0.050000y<-744.650024.
+
+
+April_highRate(State, x, y) :- 
+State="Rhode Island", 
+y<433, 
+x<893, 
+x-8.250000y<-2596.750000, 
+-x<-860.
+
+
+April_highRate(State, x, y) :- 
+State="Vermont", 
+y<499, 
+x-0.367347y<687.693848, 
+-y<-450, 
+-x+0.122449y<-777.897949.
+
+
+April_highRate(State, x, y) :- 
+State="Washington", 
+x+5.142857y<2926.857178, 
+x-0.564103y<-263.333344, 
+-x-0.304348y<-188.260864.
+
+
+April_highRate(State, x, y) :- 
+State="Washington", 
+y<577, 
+x<140, 
+-x-2.256410y<-1313.333374, 
+-x<-52.
+
+
+April_highRate(State, x, y) :- 
+State="Washington", 
+x+2.256410y<1313.333374, 
+-y<-520, 
+-x+0.564103y<263.333344.
+
+
+April_highRate(State, x, y) :- 
+State="West Virginia", 
+-x+1.458333y<-151.875000, 
+y<393, 
+x-1.057692y<350.326935, 
+-x-1.571429y<-1246.857178, 
+-x-0.476190y<-865.714294.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Connecticut", 
+c_Rank=3, 
+c_Healthcare_Access=1, 
+c_Healthcare_Quality=14, 
+c_Public_Health=6.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Maryland", 
+c_Rank=8, 
+c_Healthcare_Access=10, 
+c_Healthcare_Quality=12, 
+c_Public_Health=12.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Minnesota", 
+c_Rank=10, 
+c_Healthcare_Access=9, 
+c_Healthcare_Quality=22, 
+c_Public_Health=7.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Missouri", 
+c_Rank=41, 
+c_Healthcare_Access=35, 
+c_Healthcare_Quality=38, 
+c_Public_Health=39.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Nebraska", 
+c_Rank=27, 
+c_Healthcare_Access=21, 
+c_Healthcare_Quality=33, 
+c_Public_Health=17.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="North Dakota", 
+c_Rank=38, 
+c_Healthcare_Access=39, 
+c_Healthcare_Quality=44, 
+c_Public_Health=25.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Utah", 
+c_Rank=9, 
+c_Healthcare_Access=22, 
+c_Healthcare_Quality=4, 
+c_Public_Health=10.
+
+
+April_lowRate_healthcare(l_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+l_State="Wyoming", 
+c_Rank=42, 
+c_Healthcare_Access=43, 
+c_Healthcare_Quality=44, 
+c_Public_Health=35.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="California", 
+c_Rank=7, 
+c_Healthcare_Access=23, 
+c_Healthcare_Quality=10, 
+c_Public_Health=1.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Hawaii", 
+c_Rank=1, 
+c_Healthcare_Access=3, 
+c_Healthcare_Quality=1, 
+c_Public_Health=4.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Illinois", 
+c_Rank=22, 
+c_Healthcare_Access=19, 
+c_Healthcare_Quality=26, 
+c_Public_Health=13.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Indiana", 
+c_Rank=40, 
+c_Healthcare_Access=32, 
+c_Healthcare_Quality=34, 
+c_Public_Health=42.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Kentucky", 
+c_Rank=44, 
+c_Healthcare_Access=17, 
+c_Healthcare_Quality=47, 
+c_Public_Health=46.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Massachusetts", 
+c_Rank=2, 
+c_Healthcare_Access=2, 
+c_Healthcare_Quality=13, 
+c_Public_Health=5.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Michigan", 
+c_Rank=24, 
+c_Healthcare_Access=15, 
+c_Healthcare_Quality=16, 
+c_Public_Health=37.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Mississippi", 
+c_Rank=50, 
+c_Healthcare_Access=50, 
+c_Healthcare_Quality=50, 
+c_Public_Health=48.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Nevada", 
+c_Rank=31, 
+c_Healthcare_Access=44, 
+c_Healthcare_Quality=23, 
+c_Public_Health=31.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="New Hampshire", 
+c_Rank=16, 
+c_Healthcare_Access=5, 
+c_Healthcare_Quality=29, 
+c_Public_Health=14.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="New Jersey", 
+c_Rank=6, 
+c_Healthcare_Access=13, 
+c_Healthcare_Quality=19, 
+c_Public_Health=3.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Ohio", 
+c_Rank=35, 
+c_Healthcare_Access=20, 
+c_Healthcare_Quality=32, 
+c_Public_Health=41.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Pennsylvania", 
+c_Rank=21, 
+c_Healthcare_Access=14, 
+c_Healthcare_Quality=18, 
+c_Public_Health=32.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Rhode Island", 
+c_Rank=5, 
+c_Healthcare_Access=6, 
+c_Healthcare_Quality=9, 
+c_Public_Health=19.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Vermont", 
+c_Rank=11, 
+c_Healthcare_Access=7, 
+c_Healthcare_Quality=20, 
+c_Public_Health=11.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="Washington", 
+c_Rank=4, 
+c_Healthcare_Access=12, 
+c_Healthcare_Quality=3, 
+c_Public_Health=9.
+
+
+Apirl_highRate_healthcare(h_State, c_Rank, c_Healthcare_Access, c_Healthcare_Quality, c_Public_Health) :- 
+h_State="West Virginia", 
+c_Rank=48, 
+c_Healthcare_Access=28, 
+c_Healthcare_Quality=48, 
+c_Public_Health=50.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="California", 
+a_Largest_Industry="Computers and electronics manufacturing", 
+a_Bachelor_Rate=0.326000, 
+a_Annual_Mean_Wage=61290, 
+a_Median_Monly_Rent=2518.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Hawaii", 
+a_Largest_Industry="Accommodation", 
+a_Bachelor_Rate=0.320000, 
+a_Annual_Mean_Wage=54930, 
+a_Median_Monly_Rent=2481.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Illinois", 
+a_Largest_Industry="Insurance", 
+a_Bachelor_Rate=0.334000, 
+a_Annual_Mean_Wage=55130, 
+a_Median_Monly_Rent=1463.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Indiana", 
+a_Largest_Industry="Chemical products manufacturing", 
+a_Bachelor_Rate=0.253000, 
+a_Annual_Mean_Wage=46770, 
+a_Median_Monly_Rent=1113.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Kentucky", 
+a_Largest_Industry="Ambulatory health care services", 
+a_Bachelor_Rate=0.232000, 
+a_Annual_Mean_Wage=44020, 
+a_Median_Monly_Rent=1084.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Massachusetts", 
+a_Largest_Industry="Hospitals and nursing and residential care facilities", 
+a_Bachelor_Rate=0.421000, 
+a_Annual_Mean_Wage=65680, 
+a_Median_Monly_Rent=2252.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Michigan", 
+a_Largest_Industry="Hospitals and nursing and residential care facilities", 
+a_Bachelor_Rate=0.281000, 
+a_Annual_Mean_Wage=50780, 
+a_Median_Monly_Rent=1110.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Mississippi", 
+a_Largest_Industry="Ambulatory health care services", 
+a_Bachelor_Rate=0.213000, 
+a_Annual_Mean_Wage=40090, 
+a_Median_Monly_Rent=1055.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Nevada", 
+a_Largest_Industry="Accommodation", 
+a_Bachelor_Rate=0.237000, 
+a_Annual_Mean_Wage=47210, 
+a_Median_Monly_Rent=1423.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="New Hampshire", 
+a_Largest_Industry="Insurance", 
+a_Bachelor_Rate=0.360000, 
+a_Annual_Mean_Wage=53950, 
+a_Median_Monly_Rent=1748.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="New Jersey", 
+a_Largest_Industry="Ambulatory health care services", 
+a_Bachelor_Rate=0.381000, 
+a_Annual_Mean_Wage=59980, 
+a_Median_Monly_Rent=2062.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Ohio", 
+a_Largest_Industry="Hospitals and nursing and residential care facilities", 
+a_Bachelor_Rate=0.272000, 
+a_Annual_Mean_Wage=49430, 
+a_Median_Monly_Rent=1113.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Pennsylvania", 
+a_Largest_Industry="Hospitals and nursing and residential care facilities", 
+a_Bachelor_Rate=0.301000, 
+a_Annual_Mean_Wage=51340, 
+a_Median_Monly_Rent=1242.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Rhode Island", 
+a_Largest_Industry="Hospitals and nursing and residential care facilities", 
+a_Bachelor_Rate=0.330000, 
+a_Annual_Mean_Wage=57220, 
+a_Median_Monly_Rent=1725.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Vermont", 
+a_Largest_Industry="Ambulatory health care services", 
+a_Bachelor_Rate=0.368000, 
+a_Annual_Mean_Wage=51120, 
+a_Median_Monly_Rent=1599.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="Washington", 
+a_Largest_Industry="Publishing industries, except Internet (includes software)", 
+a_Bachelor_Rate=0.345000, 
+a_Annual_Mean_Wage=62020, 
+a_Median_Monly_Rent=1838.
+
+
+April_highRate_info(h_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+h_State="West Virginia", 
+a_Largest_Industry="Mining, except oil and gas", 
+a_Bachelor_Rate=0.199000, 
+a_Annual_Mean_Wage=43420, 
+a_Median_Monly_Rent=888.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Connecticut", 
+a_Largest_Industry="Insurance", 
+a_Bachelor_Rate=0.384000, 
+a_Annual_Mean_Wage=62350, 
+a_Median_Monly_Rent=1803.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Maryland", 
+a_Largest_Industry="Ambulatory health care services", 
+a_Bachelor_Rate=0.390000, 
+a_Annual_Mean_Wage=60230, 
+a_Median_Monly_Rent=1807.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Minnesota", 
+a_Largest_Industry="Ambulatory health care services", 
+a_Bachelor_Rate=0.348000, 
+a_Annual_Mean_Wage=55890, 
+a_Median_Monly_Rent=1449.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Missouri", 
+a_Largest_Industry="Hospitals and nursing and residential care facilities", 
+a_Bachelor_Rate=0.282000, 
+a_Annual_Mean_Wage=47820, 
+a_Median_Monly_Rent=1047.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Nebraska", 
+a_Largest_Industry="Insurance", 
+a_Bachelor_Rate=0.306000, 
+a_Annual_Mean_Wage=48250, 
+a_Median_Monly_Rent=1253.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="North Dakota", 
+a_Largest_Industry="Oil and gas extraction", 
+a_Bachelor_Rate=0.289000, 
+a_Annual_Mean_Wage=50430, 
+a_Median_Monly_Rent=1290.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Utah", 
+a_Largest_Industry=" Federal Reserve banks and credit services", 
+a_Bachelor_Rate=0.325000, 
+a_Annual_Mean_Wage=49420, 
+a_Median_Monly_Rent=1526.
+
+
+April_lowRate_info(l_State, a_Largest_Industry, a_Bachelor_Rate, a_Annual_Mean_Wage, a_Median_Monly_Rent, a_Dollar_Valu) :- 
+l_State="Wyoming", 
+a_Largest_Industry="Oil and gas extraction", 
+a_Bachelor_Rate=0.267000, 
+a_Annual_Mean_Wage=49760, 
+a_Median_Monly_Rent=1149.
+
+
+South_avg_rate(Rate) :- 
+Rate=7.341400.
+
+
+West_avg_rate(Rate) :- 
+Rate=8.097300.
+
+
+Northeast_avg_rate(Rate) :- 
+Rate=8.790000.
+
+
+Midwest_avg_rate(Rate) :- 
+Rate=6.840900.
+
+
+end%savefile%
